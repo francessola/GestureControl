@@ -29,6 +29,12 @@ The application provides two control modes:
 | 🖐️ Open hand | Toggle controls ON/OFF | Both |
 | 🤏 Thumb + index pinch | Mouse click | Cursor |
 
+## Controls
+
+- Select either **Cursor Mode** or **Presentation Mode** when the application starts.
+- Use the **open-hand gesture** to enable or disable gesture controls.
+- Press **q** while the GestureControl camera window is active to exit the application.
+
 ## How It Works
 
 GestureControl processes each webcam frame through a real-time computer vision pipeline:
