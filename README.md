@@ -54,7 +54,7 @@ GestureControl processes each webcam frame through a real-time computer vision p
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/francessola/GestureControl.git
 cd GestureControl
 ```
 
